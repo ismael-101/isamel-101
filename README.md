@@ -6,7 +6,7 @@
 
 <img
   align="right"
-  height="100"
+  height="150"
   src="./cat.gif"
 />
 
