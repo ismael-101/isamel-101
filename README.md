@@ -206,8 +206,5 @@
 
 ###
 
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/ismael-101/ismael-101/output/snake.svg" alt="Snake animation" />
 
 ###
