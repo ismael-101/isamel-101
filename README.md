@@ -165,7 +165,7 @@
     height="250"
     src="./101.jpg"
   /> 
-  <h6>becouse</h6>
+  <p font-size="5px">Certainly! The HTTP status code "101 Switching Protocols" is part of the Hypertext Transfer Protocol (HTTP) and is utilized when there is a request from the client to switch to a different communication protocol, and the server acknowledges and agrees to this change.</p>
 </div>
 <br clear="both" />
 
