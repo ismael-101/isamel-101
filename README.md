@@ -8,9 +8,10 @@
 # Hi there! 👋
 
 ### I'm Ismael, a passionate full-stack developer based in Germany.
+<br/>
 
-## 💻 Technologies
-
+## 💻 Technologies I like to work with
+<br/>
 <div align="center">
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
@@ -35,26 +36,19 @@
 </div>
   <!-- ... (other technology links) ... -->
 </div>
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismael-101&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=ismael-101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+<br/>
 
 ## ❓ Why 101?
 
-<p align="center">
-  <img height="250" src="./101.jpg" alt="Why 101?" /> 
-</p>
-
-Certainly! The HTTP status code "101 Switching Protocols" is part of the Hypertext Transfer Protocol (HTTP) and is utilized when there is a request from the client to switch to a different communication protocol, and the server acknowledges and agrees to this change.
+<img align="left" height="250" src="./101.jpg" alt="Why 101?" /> 
+<br/>
+<br/>
+<br/>
+"I've chosen the code 101 because, akin to a server seamlessly switching protocols upon request, I effortlessly adapt and transition to tackle the diverse tasks that accompany my job. This ensures a smooth and harmonious workflow, reflecting my commitment to versatile and effective problem-solving."
+<br clear="both" />
 
 ## 🌐 Connect with Me
-
+<br/>
 <div align="center">
   <a href="LINK_TO_YOUR_LINKEDIN_PROFILE">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
@@ -92,8 +86,6 @@ Certainly! The HTTP status code "101 Switching Protocols" is part of the Hyperte
   <a href="LINK_TO_YOUR_STACKOVERFLOW_PROFILE">
     <img src="https://img.shields.io/static/v1?message=Stack Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="stackoverflow logo" />
   </a>
-  
-   <!-- Additional badges for a full-stack developer -->
   <a href="LINK_TO_YOUR_GITHUB_PROFILE">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="GitHub logo" />
   </a>
@@ -108,5 +100,12 @@ Certainly! The HTTP status code "101 Switching Protocols" is part of the Hyperte
   </a>
 </div>
 
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismael-101&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=ismael-101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
