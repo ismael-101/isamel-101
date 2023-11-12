@@ -205,7 +205,7 @@
 </div>
 <div align="center">
   <img 
-    height="150"
+    height="250"
     src="./101.jpg"
   /> 
 </div>
