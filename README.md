@@ -20,6 +20,7 @@
 
 <br/>
 <br/>
+<h2>"I have a strong affinity for working with these technologies."</h2>
 <br clear="both" />
 <div align="center">
   <img
