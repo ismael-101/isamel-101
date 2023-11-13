@@ -53,7 +53,7 @@
 ## 🌐 Connect with Me
 <br/>
 <div align="center">
-  <a href="www.linkedin.com/in/ismael-ali-746a8a26b">
+  <a href="https://www.linkedin.com/in/ismael-ali-746a8a26b">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
   </a>
   <a href="LINK_TO_YOUR_DISCORD_PROFILE">
