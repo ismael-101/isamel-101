@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="45" alt="Ubuntu" />
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="45" alt="styled-components" />
 </div>
   <!-- ... (other technology links) ... -->
 </div>
