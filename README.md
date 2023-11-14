@@ -56,49 +56,49 @@
   <a href="https://www.linkedin.com/in/ismael-ali-746a8a26b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
   </a>
-  <a href="https://discordapp.com/users/1083466016740352010">
+  <a href="https://discordapp.com/users/1083466016740352010" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo" />
   </a>
-  <a href="LINK_TO_YOUR_CODEPEN_PROFILE">
+  <a href="https://codepen.io/ismael-101/pens/public" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="codepen logo" />
   </a>
-  <a href="LINK_TO_YOUR_BEHANCE_PROFILE">
+  <a href="https://www.behance.net/ismael-101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="behance logo" />
   </a>
-  <a href="LINK_TO_YOUR_DRIBBBLE_PROFILE">
+  <a href="https://dribbble.com/Ismael-101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="dribbble logo" />
   </a>
-  <a href="LINK_TO_YOUR_PAYPAL_PROFILE">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="paypal logo" />
-  </a>
-  <a href="LINK_TO_YOUR_TELEGRAM_PROFILE">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo" />
-  </a>
-  <a href="LINK_TO_YOUR_UNSPLASH_PROFILE">
+  <a href="https://unsplash.com/@ismael101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="unsplash logo" />
   </a>
-  <a href="LINK_TO_YOUR_INSTAGRAM_PROFILE">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo" />
+  <a href="https://twitter.com/_ismael101" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="X logo" />
   </a>
-  <a href="LINK_TO_YOUR_TWITTER_PROFILE">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo" />
-  </a>
-  <a href="LINK_TO_YOUR_MEDIUM_PROFILE">
+  <a href="https://medium.com/@ismael-101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="medium logo" />
   </a>
-  <a href="LINK_TO_YOUR_STACKOVERFLOW_PROFILE">
-    <img src="https://img.shields.io/static/v1?message=Stack Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="stackoverflow logo" />
-  </a>
-  <a href="LINK_TO_YOUR_GITHUB_PROFILE">
+  <a href="https://github.com/ismael-101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="GitHub logo" />
   </a>
-  <a href="LINK_TO_YOUR_DEVTO_PROFILE">
+  <a href="https://dev.to/ismael-101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=DEV&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Dev.to logo" />
   </a>
-  <a href="LINK_TO_YOUR_HACKERRANK_PROFILE">
+  <a href="https://www.hackerrank.com/profile/ismael_101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="HackerRank logo" />
   </a>
-  <a href="LINK_TO_YOUR_REDDIT_PROFILE">
+  <a href="LINK_TO_YOUR_PAYPAL_PROFILE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="paypal logo" />
+  </a>
+  <a href="LINK_TO_YOUR_TELEGRAM_PROFILE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo" />
+  </a>
+  <a href="LINK_TO_YOUR_INSTAGRAM_PROFILE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo" />
+  </a>
+  <a href="LINK_TO_YOUR_STACKOVERFLOW_PROFILE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="stackoverflow logo" />
+  </a>
+  <a href="LINK_TO_YOUR_REDDIT_PROFILE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="Reddit logo" />
   </a>
 </div>
