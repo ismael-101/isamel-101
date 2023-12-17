@@ -50,6 +50,9 @@
 "I've chosen the code 101 because, akin to a server seamlessly switching protocols upon request, I effortlessly adapt and transition to tackle the diverse tasks that accompany my job. This ensures a smooth and harmonious workflow, reflecting my commitment to versatile and effective problem-solving."
 <br clear="both" />
 
+## 👨‍💻 what I do now??
+### working on a cool School App 🏫📝👨‍🏫
+
 ## 🌐 Connect with Me
 <br/>
 <div align="center">
