@@ -51,7 +51,7 @@
 <br clear="both" />
 
 ## 👨‍💻 what I do now??
-### working on a cool School App 🏫📝👨‍🏫
+### I am working on an innovative school application. 🏫📝👨‍🏫
 
 ## 🌐 Connect with Me
 <br/>
